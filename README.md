@@ -56,14 +56,6 @@ Este projeto foi desenvolvido para praticar conceitos de:
 
 Você pode adicionar capturas de tela do projeto aqui.
 
-### Página Inicial
-
-![Página Inicial](img/screenshot-home.png)
-
-### Avaliações
-
-![Avaliações](img/screenshot-avaliacoes.png)
-
 ## 🌐 Acesso ao Projeto
 
 Acesse o site publicado:
@@ -72,6 +64,6 @@ Acesse o site publicado:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Haru Sempai**.
+Desenvolvido por **Beatriz Alves**.
 
 Projeto acadêmico para estudos de desenvolvimento web.
